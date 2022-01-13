@@ -16,3 +16,15 @@
   border-bottom: 1px solid lightgray;
 
 }
+.sign_Up{
+  display: flex;
+  flex-direction: column;
+  object-fit: contain;
+}
+.center_items{
+  display: flex;
+  justify-content: center;
+}
+.app_image_signUp{
+
+}
